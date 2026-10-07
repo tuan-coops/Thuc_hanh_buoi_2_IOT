@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.pio/
+.vscode/
+data/*
+!data/.gitkeep
+infra/mosquitto/data/
+infra/mosquitto/log/
+~$*.docx
